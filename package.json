@@ -1,0 +1,20 @@
+{
+  "name": "shankar-website",
+  "version": "1.0.0",
+  "description": "Academic portfolio website for Guguloth Shankar, PhD Scholar in Anthropology at IIT Hyderabad",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo \"Static site — no build step required\"",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "engines": {
+    "node": ">=20.x"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["anthropology", "academic", "portfolio"],
+  "author": "Guguloth Shankar",
+  "license": "MIT"
+}
